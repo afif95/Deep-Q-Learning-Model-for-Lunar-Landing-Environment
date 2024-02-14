@@ -4,7 +4,6 @@ This repository provides a hands-on experience with Deep Q-Learning (DQN) by tra
 
 ## Features:
 - Efficient DQN implementation with detailed explanations.
-- bWell-organized code separates key components for easy understanding.
 - Explore adjustable parameters to customize training.
 - Leverage Gym for seamless environment interaction.
 
