@@ -2,6 +2,8 @@
 
 This repository provides a hands-on experience with Deep Q-Learning (DQN) by training an agent to master the challenging Lunar Lander environment. Dive into the code, understand the algorithms, and witness the trained agent's expertise!
 
+**Environment:** https://gymnasium.farama.org/environments/box2d/lunar_lander/
+
 ## Features:
 - Efficient DQN implementation with detailed explanations.
 - Explore adjustable parameters to customize training.
